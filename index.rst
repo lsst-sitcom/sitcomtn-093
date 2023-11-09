@@ -14,7 +14,11 @@ Abstract
 ========
 
 Data analysis of the LVV-1791 M2 RBP REPEATABILITY test.
-loremipsum blalblabla
+The test was executed to check the repeatability in the measured position.
+The requirements to met are:
+- Linear repeatability within :math:`1\mum`
+- Rotation repeatability within :math:`0.108 arcsec`
+This analysis use the Indipendent Measurement System (IMS) to track the all 6 Degrees of Freedom (D.O.F) of the M2 cell.
 
 Add content here
 ================
