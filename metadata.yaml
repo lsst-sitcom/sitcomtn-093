@@ -13,11 +13,11 @@ serial_number: "093"
 doc_id: "SITCOMTN-093"
 
 # Title of the document, without the series/serial designation
-doc_title: "LVV-1791 M2 RBP REPEATABILITY TEST"
+doc_title: "LVV-T1829 M2 Rigid Body Position - Stability and Repeatability - Position Sensor Verification - Data Analysis"
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
-  - "luca.rosignoli"
+  - "Enrico Giro, Luca Rosignoli, Gabriele Rodeghiero, Pablo Zorzi"
 
 # Current document revision date, YYYY-MM-DD
 # Only set this field if you need to manually fix the revision date;
